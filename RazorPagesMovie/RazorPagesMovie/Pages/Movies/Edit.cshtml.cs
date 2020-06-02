@@ -65,7 +65,6 @@ namespace RazorPagesMovie.Pages.Movies
                     throw;
                 }
             }
-
             return RedirectToPage("./Index");
         }
 
